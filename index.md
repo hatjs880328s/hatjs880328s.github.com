@@ -1,8 +1,11 @@
 ## Welcome to Hatjs880328s's Main Page
 
-You can use the [editor on GitHub](https://github.com/hatjs880328s/hatjs880328s.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+OralStunts
+是一款面向大众的支持语音听写的记事本软件APP
+特有的日历展示模式，让你更好的记录自己的生活。 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+即将上架，敬请期待。
+
 
 ### Markdown
 
