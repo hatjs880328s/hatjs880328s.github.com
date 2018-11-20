@@ -24,5 +24,5 @@
 ##### OralStunts还包含批量操作对你的信息进行快速的处理（瀑布流模式下）
 ##### 同时你可以使用IOS12中ShortCut结合Siri来使用此APP，只需要对着Siri说：打开便签等话语即可打开此App进行Note的编辑
 
-###### AppStore[http://www.baidu.com]
+[App Store](http://www.jianshu.com)
 
