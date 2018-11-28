@@ -26,5 +26,5 @@
 
 ![Mou icon](http://m.qpic.cn/psb?/V11lAUUc0PwjtC/h9uyiB1J1HNSUFLTt10ceYmzhCKlIs7efRmdoOX1Kyk!/b/dBAAAAAAAAAA&bo=OASABwAAAAARF5s!&rf=viewer_4 =200x400)
 
-[App Store](http://www.jianshu.com)
+[App Store](https://itunes.apple.com/us/app/oralstunts/id1443989788?l=zh&ls=1&mt=8)
 
