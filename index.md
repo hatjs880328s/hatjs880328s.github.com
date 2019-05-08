@@ -1,4 +1,9 @@
 
+# PS4助手
+##### 是一款可以帮助我们实时了解最新游戏折扣的APP。
+
+![Mou icon](http://m.qpic.cn/psb?/V11lAUUc0PwjtC/BqBMl68igfRcBVJQBkFQ5yXyFV9eCUSmh0k8UWE8xdk!/b/dLYAAAAAAAAA&bo=7gI2BQAAAAADB*0!&rf=viewer_4 =200x400)
+
 # OralStunts
 ##### 是一款面向大众的支持语音听写的记事本软件APP。
 ##### 特有的日历展示模式，让你更好的记录自己的生活。
