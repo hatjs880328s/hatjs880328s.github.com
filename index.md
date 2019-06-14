@@ -2,7 +2,7 @@
 # PS4助手
 ##### 是一款可以帮助我们实时了解最新游戏折扣的APP。
 
-[App Store](https://apps.apple.com/us/app/ps4%E5%8A%A9%E6%89%8B/id1462845518?l=zh&ls=1)
+[下载地址 App Store](https://apps.apple.com/us/app/ps4%E5%8A%A9%E6%89%8B/id1462845518?l=zh&ls=1)
 
 # OralStunts
 ##### 是一款面向大众的支持语音听写的记事本软件APP。
@@ -29,5 +29,5 @@
 ##### OralStunts还包含批量操作对你的信息进行快速的处理（瀑布流模式下）
 ##### 同时你可以使用IOS12中ShortCut结合Siri来使用此APP，只需要对着Siri说：打开便签等话语即可打开此App进行Note的编辑
 
-[App Store](https://itunes.apple.com/us/app/oralstunts/id1443989788?l=zh&ls=1&mt=8)
+[下载地址 App Store](https://itunes.apple.com/us/app/oralstunts/id1443989788?l=zh&ls=1&mt=8)
 
