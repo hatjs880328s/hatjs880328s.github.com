@@ -1,5 +1,5 @@
 
-# PS4助手
+# 主机游戏助手
 ##### 是一款可以帮助我们实时了解最新游戏折扣的APP。
 
 [下载地址 App Store](https://apps.apple.com/us/app/ps4%E5%8A%A9%E6%89%8B/id1462845518?l=zh&ls=1)
