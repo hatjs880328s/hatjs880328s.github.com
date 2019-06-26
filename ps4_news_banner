@@ -1,25 +1,13 @@
 [{
-		"title": "第一个banner",
+		"title": "本月会免游戏",
 		"imgurl": "http://img0.imgtn.bdimg.com/it/u=1516129945,3115788099&fm=26&gp=0.jpg",
-		"subTitle": "第一个banner的subtitle",
-		"contentUrl": "http://www.baidu.com"
+		"subTitle": "本月会免游戏",
+		"contentUrl": "https://store.playstation.com/zh-hans-hk/grid/STORE-MSF86012-PLUS_FTT_CONTENT/1"
 	},
 	{
-		"title": "第一个banner",
+		"title": "PS4主机游戏助手 - PS4助手 app说明",
 		"imgurl": "http://img0.imgtn.bdimg.com/it/u=1516129945,3115788099&fm=26&gp=0.jpg",
-		"subTitle": "第一个banner的subtitle",
-		"contentUrl": "http://www.baidu.com"
-	},
-	{
-		"title": "第一个banner",
-		"imgurl": "http://img0.imgtn.bdimg.com/it/u=1516129945,3115788099&fm=26&gp=0.jpg",
-		"subTitle": "第一个banner的subtitle",
-		"contentUrl": "http://www.baidu.com"
-	},
-	{
-		"title": "第一个banner",
-		"imgurl": "http://img0.imgtn.bdimg.com/it/u=1516129945,3115788099&fm=26&gp=0.jpg",
-		"subTitle": "第一个banner的subtitle",
+		"subTitle": "PS4主机游戏助手 - PS4助手 app说明",
 		"contentUrl": "http://www.baidu.com"
 	}
 ]
