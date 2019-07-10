@@ -79,11 +79,19 @@
 
         // 第一个是gametitle , 第二个是价格, 第三个是id
 
-        var title = arr[0].split("=")[1]
+        var title = ""//arr[0].split("=")[1]
 
-        var price = arr[1].split("=")[1]
+        var price = ""//arr[1].split("=")[1]
 
-        var id = arr[2].split("=")[1]
+        var id = ""//arr[2].split("=")[1]
+
+        for (i = 0 ; i < arr.length - 1 ; i++) {
+            if (arr[i].split("=")[0] == "gametitle") {
+                title = arr[i].split("=")[1];
+            } else if (arr[i].split("=")[0] == "gameprice") {
+                price = arr[i].split("=")[1];
+            } 
+        }
         
         title=decodeURI(title);//转码将解码方式unscape换为decodeURI，将中文参数获取
 
