@@ -147,7 +147,8 @@
 												<li data-animation="animated bounceInDown" class="slider_social_icon4"><a href="#"><i class="fa fa-bitcoin"></i></a></li>
 												<li data-animation="animated bounceInDown" class="slider_social_icon5"><a href="#"><i class="fa fa-envelope"></i></a></li>
 											</ul>
-											<h2 data-animation="animated bounceInLeft">Bit Money - Lending & <br>Investment Platform</h2>
+											<h2 data-animation="animated bounceInLeft" id="gametitle">Bit Money - Lending</h2>
+											<h2 data-animation="animated bounceInLeft" id="gameprice">dddddd Platform</h2>
 											<div class="buttons">
 												<a href="#" class="btn1" data-animation="animated bounceInUp">WHITEPAPER</a>
 												<a href="#" class="btn2" data-animation="animated bounceInUp">Buy Tokens Now!</a>
@@ -1614,5 +1615,36 @@
 <!-- main js -->
 <script src="js/main.js"></script>
 
+<script>
+
+		var url = document.location.toString();//获取url地址
+
+    	var urlParmStr = url.slice(url.indexOf('?')+1);//获取问号后所有的字符串
+
+    	var arr = urlParmStr.split('&');//通过&符号将字符串分割转成数组
+
+    	// 第一个是gametitle , 第二个是价格, 第三个是id
+
+    	var title = arr[0].split("=")[1]
+
+    	var price = arr[1].split("=")[1]
+
+    	var id = arr[2].split("=")[1]
+    	
+    	title=decodeURI(title);//转码将解码方式unscape换为decodeURI，将中文参数获取
+
+    	price=decodeURI(price);
+
+    	id=decodeURI(id);
+ 
+		window.onload = function(){
+			document.getElementById("gametitle").innerText = title
+			document.getElementById("gameprice").innerText = price
+			document.body.scrollTop = 0
+		}
+
+
+	</script>
+
 </body>
-</html>
+</html>
