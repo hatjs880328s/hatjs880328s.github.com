@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "NVGL8H4887.com.Inspur.ii.PS4Manager",
+                "paths": [ "*"]
+            },
+            {
+                "appID": "NVGL8H4887.com.wenzhengshan.iii.OralStunts",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
