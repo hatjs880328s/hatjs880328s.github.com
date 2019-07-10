@@ -1,1 +1,51 @@
 
+<!DOCTYPE html>
+<html>
+ 
+	<head>
+		<meta charset="UTF-8">
+		<title>hi,get params...</title>
+	</head>
+	
+ 
+	<body>
+		<label>gameTitle：</label><br />
+
+		<label id="gametitle"></label><br />
+		
+		<label>gamePrice：</label><br />
+
+		<label id="gameprice"></label><br />
+		
+ 
+	</body>
+
+	<script>
+
+		var url = document.location.toString();//获取url地址
+
+    	var urlParmStr = url.slice(url.indexOf('?')+1);//获取问号后所有的字符串
+
+    	var arr = urlParmStr.split('&');//通过&符号将字符串分割转成数组
+
+    	// 第一个是gametitle , 第二个是价格, 第三个是id
+
+    	var title = arr[0].split("=")[1]
+
+    	var price = arr[1].split("=")[1]
+
+    	var id = arr[2].split("=")[1]
+    	
+    	title=decodeURI(title);//转码将解码方式unscape换为decodeURI，将中文参数获取
+
+    	price=decodeURI(price);
+
+    	id=decodeURI(id);
+ 
+		window.onload = function(){
+			document.getElementById("gametitle").innerText = title
+			document.getElementById("gameprice").innerText = price
+		}
+
+
+	</script>
